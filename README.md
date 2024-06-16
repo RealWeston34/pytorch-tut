@@ -1,2 +1,2 @@
 # pytorch-tut
-Familarizing myself with pytorch documentation for my work in the Smart Signals and Systems Lab
+Familarizing myself with PyTorch documentation for my work in the Smart Circuits and Systems Lab
